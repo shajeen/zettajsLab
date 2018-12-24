@@ -1,0 +1,15 @@
+{
+  "name": "zetta_home_security",
+  "version": "1.0.0",
+  "description": "it an home security demo application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: Bingo !! no test specified\" && exit 1"
+  },
+  "author": "ShajeenAhamed",
+  "license": "ISC",
+  "dependencies": {
+    "zetta": "^1.0.0-beta.6",
+    "zetta-led-mock-driver": "^0.9.0"
+  }
+}
